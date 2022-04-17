@@ -25,7 +25,7 @@
 [マークダウン書き方 Google検索](https://www.google.com/search?q=マークダウン書き方)<br>あとは逐一ググる感じですかね |
 
 ## マークダウンでできないことは HTML で
-YouTube の埋め込みのやり方は [コチラ](https://github.com/retro-ongaku/docs/tree/main/embed-youtube)
+YouTube の埋め込みのやり方は [コチラ](https://github.com/retro-musica/docs/tree/main/embed-youtube)
 ## GitHub
 ### さまざまなスクリプトがシェアされている
 ### 自分のアカウントを作る
