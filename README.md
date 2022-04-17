@@ -39,4 +39,4 @@ YouTube の埋め込みのやり方は [コチラ](https://github.com/retro-onga
 - 必ずどのファイルにも `[ホームへ戻る](/home)` を記述
 
 # その他
-分からないことがあれば
+分からないことがあれば[野中](mailto:20s5021a@shinshu-u.ac.jp?subject=レトロ音楽倶楽部ウェブサイトの件)に連絡下さい。
